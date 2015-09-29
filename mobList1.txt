@@ -1,0 +1,5 @@
+Typical Green Slime,10,Probing Pseudopod,500360,Viscous Sludge,600000
+Dapper Gentlemanly Skeleton,20,Expensive Umbrella,100750,Posh Top Hat & Monocle,800500
+Filthy Unwashed Bandito,25,Scavenged Rusty Pistol,102030,Pilfered Leather Cloak,300500
+Utterly Innocent Kitten,5,Affectionate Cuddle,100000,Silky Soft Fur,300000
+Depressed Ghost,1,Obnoxious Sighs,800599,Tear-Soaked Ectoplasm,101500

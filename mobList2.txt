@@ -1,0 +1,5 @@
+Newborn Baby Dragon,30,Short Stubby Claws,101050,Half-Developed Scales,100000
+Really Really Drunk Mage,25,Misguided Arcane Bolts,104020,Purely Decorative Magi Robes,300000
+Vengeful Mother Cat,10,Razor Sharp Talons,101099,Not-So-Soft Fur,300500
+Conscripted Imperial Cannon Fodder,30,Mass-Produced Mace,101550,Mediocre Dented Breastplate,101010
+Clumsy Amateur Thief,20,Easy-To-Use Dagger,101070,Stolen Cloth Tunic,300005

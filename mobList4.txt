@@ -1,0 +1,5 @@
+Xel'toth Kwunuu Warrior Caste,75,Non-Repeating Ion Repeater,602060,Xel'toth Spaceship Armor Plate ,103020
+Vengeful Space-Faring Father Cat,30,Piercing Razor Sharp Talons,104099,Genetically Modified Fur,301000
+Tryhard Intrepid Smuggler,40,Phasor (Set to Stun),702099,Futuristic Leather Vest,301000
+Clone Trooper Clone,50,Copyright Infringing Laser Rifle,610010 ,Blatantly Ripped-Off Armor,102000
+Angry Rebel Soldier,40,Improvised Plasma Grenades,104070,Pointless Combat Fatigues,300005
